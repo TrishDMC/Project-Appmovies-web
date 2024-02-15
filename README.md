@@ -14,11 +14,11 @@ Este é um projeto simples de um site em React que lista filmes usando a API do 
 
 2. Navegue até o diretório do projeto:
 
-        cd nome-do-repositorio
+       cd nome-do-repositorio
 
 3. Instale as dependências do projeto:
 
-        npm install
+       npm install
 
 ### Executando o Projeto
 
