@@ -1,0 +1,40 @@
+.container-login {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 185px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .titulo-pagina {
+    text-align: center;
+  }
+  
+  .form-login {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .lb-psw {
+    margin-right: 10px;
+    margin-bottom: 5px;
+  }  
+   .input-usr, .input-psw {
+    border-radius: 12px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .btn-login {
+    padding: 10px;
+    background-color: #3f3f3f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-login:hover {
+    background-color: #797979;
+  }

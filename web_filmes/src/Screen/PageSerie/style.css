@@ -1,0 +1,64 @@
+.container {
+    width: 75%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 800px;
+  }
+  
+  .poster-container {
+    width: auto;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .poster {
+    border-radius: 15px;
+    width: auto;
+    margin-top: 10px;
+    height: 350px;
+  }
+  
+  .overview {
+    font-size: 15px;
+  }
+  
+  .text {
+    width: 80%;
+    margin-top: 50px;
+    text-align: left;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 25px;
+  }
+  
+  /* Estilização do Slider */
+  .image-slider {
+    width: 85%;
+    margin-bottom: 25px;
+  }
+  
+  .slick-slide {
+    margin-right: 6px;
+  }
+  
+  .backdrop {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+  }
+  
+  
+  

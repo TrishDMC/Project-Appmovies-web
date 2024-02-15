@@ -1,0 +1,31 @@
+.serie-poster {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.series-carousel-container {
+  width: 85%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.serie-title {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.serie-slider-container {
+  display: flex;
+  justify-content: center;
+}
+
+.slider-serie {
+  display: flex;
+  justify-content: center;
+}
+
+.serie-poster:hover {
+  filter: brightness(45%);
+}
